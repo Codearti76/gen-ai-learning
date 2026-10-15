@@ -1,2 +1,4 @@
 .env
 venv
+apps/my_tasks.db
+data/
